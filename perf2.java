@@ -1,0 +1,2 @@
+java2 class
+
